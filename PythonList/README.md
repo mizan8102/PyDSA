@@ -69,11 +69,11 @@ pop()
 The method pop() can remove an element from any position in the list. The parameter supplied to this method is the element index to be removed.
 </p>
 <h5><b>Example Code</b></h5>
-```
-yourList = [4, 2, 6, 5, 0, 1]
-yourList.sort()
-print(yourList)
-```
+<pre>
+myList = [1, 2, 3, 'EduCBA', 'makes learning fun!']
+myList.pop(3)
+print(myList)
+</pre>
 
 </li>
 <li>
@@ -85,12 +85,11 @@ len()
 The len() method returns the length of the list, i.e., the number of elements in the list.
 </p>
 
-<h5><b>Example Code</b></h5>
-```
-yourList = [4, 2, 6, 5, 0, 1]
-yourList.sort()
-print(yourList)
-```
+<h5><b>Example Code</b></h5></br>
+<pre>
+myList = [1, 2, 3, 'EduCBA', 'makes learning fun!']
+print(len(myList))
+</pre>
 </li>
 </ol>
 </ul>
