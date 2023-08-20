@@ -13,9 +13,9 @@
 ### Types of Array operations:
 
 <ul>
-  <li>Traversal: Traverse through the elements of an array.</li>
-  <li>Insertion: Inserting a new element in an array.</li>
-  <li>Deletion: Deleting element from the array.</li>
-  <li>Searching:  Search for an element in the array.</li>
-  <li>Sorting: Maintaining the order of elements in the array.</li>
+  <li><strong>Traversal: </strong> Traverse through the elements of an array.</li>
+  <li><strong>Insertion: </strong> Inserting a new element in an array.</li>
+  <li><strong>Deletion: </strong> Deleting element from the array.</li>
+  <li><strong>Searching: </strong>  Search for an element in the array.</li>
+  <li><strong>Sorting: </strong> Maintaining the order of elements in the array.</li>
 </ul>
