@@ -1,8 +1,8 @@
-### Introduction to List
+<h4><b> Introduction to List </b> </h4>
 
 <p>The list is a data structuring method that allows storing the integers or the characters in an order indexed by starting from 0. List operations are the operations that can be performed on the data in the list data structure. A few of the basic list operations used in Python programming are extend(), insert(), append(), remove(), pop(), slice, reverse(), min() & max(), concatenate(), count(), multiply(), sort(), index(), clear(), etc.</p>
 
-### Key Highlights
+<h4> <b> Key Highlights</b></h4>
 
 <ul>
 <li>The Python List is one of the built-in data types of Python and the most flexible one. These are involved in the storage of the collection of data sets.</li>
