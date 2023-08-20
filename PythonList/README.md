@@ -12,7 +12,7 @@
 <li>Python Lists allow you to perform various functions apart from simple operations like adding or deleting. You can remove any element irrespective of the position, reverse the order of the list, print the results in a specific sequence, and sort or even empty the elements in the list.</li>
 </ul>
 
-<li>List Operations in Python </li>
+<li><h3><b>List Operations in Python</b></h3></li>
 Some of the most widely used list operations in Python include the following:
 
 <ol>
@@ -43,13 +43,21 @@ The remove() method removes an element from the list. Only the first occurrence 
 
 <li>
 <Strong>
-pop()
+sort()
 </Strong>
 
 <p>
-The method pop() can remove an element from any position in the list. The parameter supplied to this method is the element index to be removed.
+The sort method sorts the list in ascending order. You can only perform this operation on homogeneous lists, which means lists with similar elements.
 </p>
+<h5>
+<b>Example code</b>
+</h5>
 
+```
+yourList = [4, 2, 6, 5, 0, 1]
+yourList.sort()
+print(yourList)
+```
 </li>
 <li>
 <Strong>
@@ -59,7 +67,28 @@ pop()
 <p>
 The method pop() can remove an element from any position in the list. The parameter supplied to this method is the element index to be removed.
 </p>
+<h5><b>Example Code</b></h5>
+```
+myList = [1, 2, 3, 'EduCBA', 'makes learning fun!']
+myList.pop(3)
+print(myList)
+```
 
+</li>
+<li>
+<Strong>
+len()
+</Strong>
+
+<p>
+The len() method returns the length of the list, i.e., the number of elements in the list.
+</p>
+
+<h5><b>Example Code</b></h5>
+```
+myList = [1, 2, 3, 'EduCBA', 'makes learning fun!']
+print(len(myList))
+```
 </li>
 </ol>
 </ul>
